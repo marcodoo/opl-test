@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "CopyAssets_DeploymentSpace1_to_DeploymentSpace2.ipynb",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-04-19T15:14:57Z",
+    "created": 1650381297867,
+    "asset_id": "data_asset.CopyAssetsDeploymentSpace1toDeploymentSpace2ipynb",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/octet-stream"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "CopyAssets_DeploymentSpace1_to_DeploymentSpace2.ipynb",
+      "mime": "application/octet-stream",
+      "object_key": "data_asset/CopyAssets_DeploymentSpace1_to_DeploymentSpace2.ipynb",
+      "object_key_is_read_only": true,
+      "created_at": "2022-04-19T15:14:58Z",
+      "id": "57befd24-070e-416c-a853-e6f62954477f",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
